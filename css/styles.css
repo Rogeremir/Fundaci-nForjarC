@@ -4962,7 +4962,7 @@ textarea.form-control-lg {
 
 .alert-info {
   color: #087990;
-  background-color: #cff4fc;
+  background-color: portfolio-hover;
   border-color: #b6effb;
 }
 .alert-info .alert-link {
@@ -11486,4 +11486,8 @@ header.masthead h1, header.masthead .h1 {
   background-position: center center;
   background-attachment: fixed;
   background-size: cover;
+}
+
+.contenedor-icono i {
+  color: #6B6C9E
 }
