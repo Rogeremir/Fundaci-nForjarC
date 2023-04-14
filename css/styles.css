@@ -11479,7 +11479,7 @@ header.masthead h1, header.masthead .h1 {
 }
 
 
-#about {
+.bg-img {
   background-color: #000000;
   background-image: url("../assets/img/bg-about.jpg");
   background-repeat: no-repeat;
