@@ -11459,6 +11459,9 @@ header.masthead h1, header.masthead .h1 {
   font-size: 1.25rem;
   color: black;
 }
+.portfolio-hover-content {
+  align=right;
+}
 #portfolio .portfolio-item .portfolio-link:hover .portfolio-hover {
   opacity: 1;
 }
